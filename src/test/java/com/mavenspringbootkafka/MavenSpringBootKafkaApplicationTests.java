@@ -1,4 +1,4 @@
-package com.example.mavenspringbootkafka;
+package com.mavenspringbootkafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
